@@ -34,9 +34,9 @@ UCL 机器人与人工智能本硕连读四年级。我关注机器人学习、�
 **UBTECH · From demonstrations to autonomous action**<br>
 **优必选 · 从自动生成示范到自主执行**
 
-I built an automated demonstration pipeline for UTars, developed recovery from off-nominal states, and connected robot learning with autonomous manipulation in simulation. The work spans **four demonstration scenarios**, **1,000 demonstrations used for training**, and a complete workflow from data generation to learned-policy execution.
+I built an automated demonstration pipeline for UTars, developed recovery from off-nominal states, and connected robot learning with autonomous manipulation in simulation. The work connects data generation, learning, and autonomous execution in one complete workflow.
 
-面向 UTars，我构建自动示范生成流程，开发偏差状态下的恢复能力，并贯通机器人学习与仿真自主搬运。工作覆盖 **四类自动示范场景、1,000 条训练示范**，连接数据生成、学习与自主执行。
+面向 UTars，我构建自动示范生成流程，开发偏差状态下的恢复能力，并贯通机器人学习与仿真自主搬运。工作连接数据生成、学习与自主执行，形成完整的机器人学习流程。
 
 <h3><img src="assets/icons/plain/news.png" width="18" height="18" align="absmiddle" alt=""> Research & experience / 研究与经历</h3>
 
