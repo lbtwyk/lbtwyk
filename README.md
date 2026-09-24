@@ -44,6 +44,4 @@ I built an automated demonstration pipeline for UTars, developed recovery from o
 - **2025.06 — 2025.10 · Tsinghua IIIS × Zhongguancun Academy / 清华 IIIS × 中关村学院** — Research intern in robot learning and sim-to-real: real-robot data, diffusion policies, and joint learning from simulated and real demonstrations. / 研究实习：真机数据、扩散策略与虚实联合学习。
 - **Ongoing / 正在探索** — Streaming music-conditioned dance generation for humanoid robots, connecting rhythm and continuous movement. / 音乐驱动的人形机器人流式舞蹈生成，连接节奏与连续动作。
 
-[Self-touch & embodied exploration / 自触碰与具身探索](https://github.com/lbtwyk/babybench) · [SignTutor / 手语学习](https://github.com/lbtwyk/SignTutor)
-
 **Robot Learning · Embodied AI · Autonomous Manipulation · Sim to Real · Music to Motion**
