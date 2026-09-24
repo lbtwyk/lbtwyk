@@ -38,6 +38,12 @@ I built an automated demonstration pipeline for UTars, developed recovery from o
 
 面向 UTars，我构建自动示范生成流程，开发偏差状态下的恢复能力，并贯通机器人学习与仿真自主搬运。工作连接数据生成、学习与自主执行，形成完整的机器人学习流程。
 
+**Collection — Fully Automated:** planning, execution, and recovery without manual teleoperation.<br>
+**Inference — Autonomous Decision-Making:** the model observes the scene and independently decides how to execute the instructed task.
+
+**Collection — 全自动数采：** 无需人工遥操作，自动完成规划、执行与纠错。<br>
+**Inference — 完全自主决策：** 模型根据观测自主决定动作，执行给定任务。
+
 <h3><img src="assets/icons/plain/news.png" width="18" height="18" align="absmiddle" alt=""> Research & experience / 研究与经历</h3>
 
 - **2026 — Present · UBTECH / 优必选科技** — Research intern, Embodied Large Models & Cognitive Decision. Automated demonstrations, robot learning, and autonomous manipulation. / 具身大模型与认知决策部研究实习：自动示范生成、机器人学习与自主操作。
