@@ -35,12 +35,9 @@ Streaming music-conditioned dance generation for humanoid robots, connecting rhy
 
 <h3><img src="assets/icons/plain/news.png" width="18" height="18" align="absmiddle" alt=""> Internships</h3>
 
-**2026 — Oct 2026 · UBTECH**
+**Jun — Oct 2026 · UBTECH**
 
 Research intern, Embodied Large Models & Cognitive Decision. I built an automated demonstration pipeline for UTars, developed recovery from off-nominal states, and connected robot learning with autonomous manipulation in simulation.
-
-**Collection — Fully Automated:** planning, execution, and recovery without manual teleoperation.<br>
-**Inference — Autonomous Decision-Making:** the model observes the scene and independently decides how to execute the instructed task.
 
 **Jun — Oct 2025 · Tsinghua IIIS × Zhongguancun Academy**
 
