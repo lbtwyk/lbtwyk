@@ -27,19 +27,23 @@
 
 Fourth-year MEng Robotics & AI at UCL. I build robots that learn from demonstrations and act in the world, working across robot learning, autonomous manipulation, and music-driven motion.
 
-<h3><img src="assets/icons/plain/robot.png" width="18" height="18" align="absmiddle" alt=""> Projects</h3>
+<h3><img src="assets/icons/plain/now.png" width="18" height="18" align="absmiddle" alt=""> Projects</h3>
 
-**UBTECH · From demonstrations to autonomous action**
+**Streaming Humanoid Dance Generation — Work in Progress**
 
-I built an automated demonstration pipeline for UTars, developed recovery from off-nominal states, and connected robot learning with autonomous manipulation in simulation. The work connects data generation, learning, and autonomous execution in one complete workflow.
+Streaming music-conditioned dance generation for humanoid robots, connecting rhythm, expression, and continuous movement.
+
+<h3><img src="assets/icons/plain/news.png" width="18" height="18" align="absmiddle" alt=""> Internships</h3>
+
+**2026 — Present · UBTECH**
+
+Research intern, Embodied Large Models & Cognitive Decision. I built an automated demonstration pipeline for UTars, developed recovery from off-nominal states, and connected robot learning with autonomous manipulation in simulation.
 
 **Collection — Fully Automated:** planning, execution, and recovery without manual teleoperation.<br>
 **Inference — Autonomous Decision-Making:** the model observes the scene and independently decides how to execute the instructed task.
 
-<h3><img src="assets/icons/plain/news.png" width="18" height="18" align="absmiddle" alt=""> Research & experience</h3>
+**2025.06 — 2025.10 · Tsinghua IIIS × Zhongguancun Academy**
 
-- **2026 — Present · UBTECH** — Research intern, Embodied Large Models & Cognitive Decision. Automated demonstrations, robot learning, and autonomous manipulation.
-- **2025.06 — 2025.10 · Tsinghua IIIS × Zhongguancun Academy** — Research intern in robot learning and sim-to-real: real-robot data, diffusion policies, and joint learning from simulated and real demonstrations.
-- **Ongoing** — Streaming music-conditioned dance generation for humanoid robots, connecting rhythm and continuous movement.
+Research intern in robot learning and sim-to-real: real-robot data, diffusion policies, and joint learning from simulated and real demonstrations.
 
 **Robot Learning · Embodied AI · Autonomous Manipulation · Sim to Real · Music to Motion**
