@@ -22,7 +22,7 @@
 
 ### Selected work · 项目与经历
 
-**[aheadance ↗](https://lbtwyk.github.io/#aheadance)** · UCL  
+**[AHEADance ↗](https://lbtwyk.github.io/#aheadance)** · UCL  
 Streaming humanoid motion generation with anticipatory diffusion and SONIC whole-body control. **90.6 ms** average generation per **0.53 s** of motion; **~0.8 s** end-to-end latency on Unitree G1. Text and keyframe guidance are planned multimodal extensions.
 
 音乐前瞻与流式扩散驱动人形机器人动作生成，衔接 SONIC 全身控制。平均 **90.6 毫秒**生成 **0.53 秒**动作，G1 真机端到端延迟约 **0.8 秒**；计划加入文本与关键帧，实现多模态引导。
