@@ -20,10 +20,14 @@
   <a href="https://www.linkedin.com/in/yukun-wang-024120297/"><img src="assets/icons/plain/linkedin.png" width="18" height="18" align="absmiddle" alt=""> LinkedIn</a>
 </p>
 
-### Selected work
+### Selected work · 项目与经历
 
-| | Focus | Watch |
+**[aheadance ↗](https://lbtwyk.github.io/#aheadance)** · UCL  
+Streaming humanoid motion generation with anticipatory diffusion and SONIC whole-body control. **90.6 ms** average generation per **0.53 s** of motion; **~0.8 s** end-to-end latency on Unitree G1. Text and keyframe guidance are planned multimodal extensions.
+
+音乐前瞻与流式扩散驱动人形机器人动作生成，衔接 SONIC 全身控制。平均 **90.6 毫秒**生成 **0.53 秒**动作，G1 真机端到端延迟约 **0.8 秒**；计划加入文本与关键帧，实现多模态引导。
+
+| Experience / 经历 | Focus / 方向 | Watch / 演示 |
 | :-- | :-- | :-- |
-| **ForeDance** · UCL | Multimodal streaming motion generation and whole-body execution for humanoids. | [Demo ↗](https://lbtwyk.github.io/#foredance) |
-| **UBTECH** · 2026 | Automated robot demonstrations, VLA post-training, and autonomous recovery. | [Demos ↗](https://lbtwyk.github.io/#ubtech) |
-| **Tsinghua IIIS × ZGCA** · 2025 | Diffusion policies and VLA sim-real co-training for robot manipulation. | [Demos ↗](https://lbtwyk.github.io/#tsinghua) |
+| **UBTECH / 优必选** · 2026 | Automated demonstrations, VLA post-training & autonomous recovery.<br>自动化示范生成、VLA 后训练与自主纠错。 | [Demos ↗](https://lbtwyk.github.io/#ubtech) |
+| **Tsinghua IIIS × ZGCA / 清华 IIIS × 中关村学院** · 2025 | Diffusion policies & VLA sim-real co-training.<br>扩散策略与 VLA 虚实联合训练。 | [Demos ↗](https://lbtwyk.github.io/#tsinghua) |
