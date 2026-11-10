@@ -6,7 +6,12 @@ I'm a fourth-year MEng Robotics & AI student at UCL and a Researcher in the [UCL
 
 UCL Robotics & AI 本硕连读四年级，在 UCL Humanoid Robotics Lab 担任 Researcher，研究人形机器人动作生成，以及让机器人策略从自身经验中持续改进。
 
-- **AHEADance** · a humanoid that dances to live music in real time on a Unitree G1 · [demo](https://lbtwyk.github.io/#aheadance)
+**News**
+- **2026.11** · AHEADance (co-first author), real-time streaming humanoid dance, is under review at IEEE T-RL · [project page](https://ihcr.github.io/AHEADance/) · [video](https://youtu.be/WqwX6balBUI)
+- **2026.10** · AHEADance dances on a real Unitree G1 to live music heard through a microphone.
+
+**Research & internships**
+- **AHEADance** (co-first author, under review at IEEE T-RL) · a Unitree G1 that dances as it listens: switch songs, stop and restart the music, and it follows · [project page](https://ihcr.github.io/AHEADance/) · [demos](https://lbtwyk.github.io/#aheadance)
 - **UBTECH** (2026) · robots that make their own training data and learn from their own mistakes · [demos](https://lbtwyk.github.io/#ubtech)
 - **Tsinghua IIIS × Zhongguancun Academy** (2025) · learning manipulation from real and simulated data · [demos](https://lbtwyk.github.io/#tsinghua)
 
