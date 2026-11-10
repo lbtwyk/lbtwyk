@@ -1,24 +1,25 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Yukun Wang / 王宇堃 — UCL MEng Robotics & AI" width="760">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.png">
+    <img src="assets/banner-light.png" alt="Yukun Wang / 王宇堃 — UCL MEng Robotics & AI" width="620">
+  </picture>
 </p>
 
-I'm a fourth-year MEng Robotics & AI student at UCL and a Researcher in the [UCL Humanoid Robotics Lab](https://ucl-humanoid.github.io/). I work on humanoid motion generation and on robot policies that keep improving from their own experience.
+UCL MEng Robotics & AI · Researcher, [UCL Humanoid Robotics Lab](https://ucl-humanoid.github.io/) · previously Tsinghua IIIS × Zhongguancun Academy and UBTECH.
 
-UCL Robotics & AI 本硕连读四年级，在 UCL Humanoid Robotics Lab 担任 Researcher，研究人形机器人动作生成，以及让机器人策略从自身经验中持续改进。
+UCL Robotics & AI 本硕连读 · UCL Humanoid Robotics Lab Researcher · 曾在清华交叉信息研究院 × 中关村学院、优必选从事具身智能研究。
 
 **News**
-- **2026.11** · AHEADance (co-first author), real-time streaming humanoid dance, is under review at IEEE T-RL · [project page](https://ihcr.github.io/AHEADance/) · [video](https://youtu.be/WqwX6balBUI)
-- **2026.10** · AHEADance dances on a real Unitree G1 to live music heard through a microphone.
+- **2026.11** · AHEADance (co-first author) is under review at IEEE T-RL · [project page](https://ihcr.github.io/AHEADance/) · [video](https://youtu.be/WqwX6balBUI)
+- **2026.10** · AHEADance dances on a real Unitree G1 to live music heard through a microphone
 
-**Research & internships**
-- **AHEADance** (co-first author, under review at IEEE T-RL) · a Unitree G1 that dances as it listens: switch songs, stop and restart the music, and it follows · [project page](https://ihcr.github.io/AHEADance/) · [demos](https://lbtwyk.github.io/#aheadance)
-- **UBTECH** (2026) · robots that make their own training data and learn from their own mistakes · [demos](https://lbtwyk.github.io/#ubtech)
-- **Tsinghua IIIS × Zhongguancun Academy** (2025) · learning manipulation from real and simulated data · [demos](https://lbtwyk.github.io/#tsinghua)
+**Paper**
+- **AHEADance: Anticipatory Humanoid Dance from Streaming Audio** · T. Peng\*, **Y. Wang\***, L. Bao, Y. Jia, C. Zhou · IEEE T-RL, under review · \*co-first authors
 
-<p>
-  <a href="https://lbtwyk.github.io/"><img src="assets/icons/plain/about.png" width="18" height="18" align="absmiddle" alt=""> Website</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:lambert.wang.23@ucl.ac.uk"><img src="assets/icons/plain/mail.png" width="18" height="18" align="absmiddle" alt=""> Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/yukun-wang-024120297/"><img src="assets/icons/plain/linkedin.png" width="18" height="18" align="absmiddle" alt=""> LinkedIn</a>
-</p>
+**Internships**
+- **UBTECH** (2026) · VLA intern: NVIDIA GR00T N1.7 post-training, RECAP policy flywheel, training-time RTC · [demos](https://lbtwyk.github.io/?lang=en#ubtech)
+- **Tsinghua IIIS × Zhongguancun Academy** (2025) · OpenVLA sim–real co-training with PPO, Diffusion Policy on a real Franka · [demos](https://lbtwyk.github.io/?lang=en#tsinghua)
+
+`Humanoid Motion Generation` `Whole-Body Control` `VLA` `Diffusion Policy` `Reinforcement Learning` `Sim2Real` `Unitree G1` `GR00T` `Isaac Sim`
+
+[Website](https://lbtwyk.github.io/) · [Email](mailto:lambert.wang.23@ucl.ac.uk) · [LinkedIn](https://www.linkedin.com/in/yukun-wang-024120297/)
