@@ -10,11 +10,11 @@ UCL MEng Robotics & AI · Researcher, [UCL Humanoid Robotics Lab](https://ucl-hu
 UCL Robotics & AI 本硕连读 · UCL Humanoid Robotics Lab Researcher · 曾在清华交叉信息研究院 × 中关村学院、优必选从事具身智能研究。
 
 **News**
-- **2026.11** · AHEADance (co-first author) is under review at IEEE T-RL · [project page](https://ihcr.github.io/AHEADance/) · [video](https://youtu.be/WqwX6balBUI)
+- **2026.11** · AHEADance (co-first author) is under review at IEEE T-RL · [arXiv](https://arxiv.org/abs/2611.13370) · [project page](https://ihcr.github.io/AHEADance/) · [video](https://youtu.be/WqwX6balBUI)
 - **2026.10** · AHEADance dances on a real Unitree G1 to live music heard through a microphone
 
 **Paper**
-- **AHEADance: Anticipatory Humanoid Dance from Streaming Audio** · T. Peng\*, **Y. Wang\***, L. Bao, Y. Jia, C. Zhou · IEEE T-RL, under review · \*co-first authors
+- **AHEADance: Anticipatory Humanoid Dance from Streaming Audio** · T. Peng\*, **Y. Wang\***, L. Bao, Y. Jia, C. Zhou · IEEE T-RL, under review · [arXiv:2611.13370](https://arxiv.org/abs/2611.13370) · \*co-first authors
 
 **Internships**
 - **UBTECH** (2026) · VLA intern: NVIDIA GR00T N1.7 post-training, RECAP policy flywheel, training-time RTC · [demos](https://lbtwyk.github.io/?lang=en#ubtech)
